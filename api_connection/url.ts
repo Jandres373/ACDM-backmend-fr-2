@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://acdm-backend-2-dev-xndt.3.us-1.fl0.io/api/v1'
