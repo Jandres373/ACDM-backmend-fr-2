@@ -31,7 +31,7 @@ const DropDown : React.FC<DropDownProps> = ({ user,onUpdate } ) =>  {
         Edit
       </DropdownMenuTrigger>
       <DropdownMenuContent side="top">
-        <DropdownMenuLabel>Edit user\'s information</DropdownMenuLabel>
+        <DropdownMenuLabel><p>Edit user&rsquo;s information</p></DropdownMenuLabel>
         <DropdownMenuSeparator />
         <Form {...form}>
           <form

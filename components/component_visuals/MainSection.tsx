@@ -26,7 +26,7 @@ const MainSection = () => {
         <div className="w-5/6 flex items-center">
           <h1 className="text-8xl font-bold text-center">
             
-            <p>Visual user\'s database</p>
+            <p>Visual user&rsquo;s database</p>
           </h1>
         </div>
         <div className="w-3/6">
